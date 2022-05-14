@@ -738,3 +738,10 @@ textarea {
         padding-block: 5rem;
     }
 }
+
+@media screen and (max-width: 420px) {
+    .list-link span {
+        display: block;
+    }
+}
+
